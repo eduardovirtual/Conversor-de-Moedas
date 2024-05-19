@@ -17,3 +17,6 @@ Nesse projeto, o desafio era desenvolver uma aplicação que através do consumo
 
 ## Demonstração
 ![demonstrativo do uso da aplicação](assets-md/demonstracao.png)
+
+## Badge de conclusão do Challenge ONE:
+![badge de conclusão do desafio](assets-md/badge-conversor.png)
